@@ -416,7 +416,7 @@ In Honeystone, West Brampton, the blend of house and home is more than a goal; i
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0 ">
                     <p class=" ">
-                        <h2 class="navbar-brand-foot fs-4"><a href="#" target="_blank" class = "text-dark text-decoration-none">Honeystone </a></h2>
+                        <h2 class="navbar-brand-foot fs-4"><a href="https://homebaba.ca/brampton/honeystone-homes" target="_blank" class = "text-dark text-decoration-none">Honeystone </a></h2>
                     </p>
                     <span class=" justifyy ">
                     We do not represent the builder. Information provided on this website is gathered from publicly available websites. The information might not be updated and could include inaccurate or outdated information such as location, pricing, availability, floor plans etc. To learn more about Honeystone Homes, please contact the builder directly. </span>
