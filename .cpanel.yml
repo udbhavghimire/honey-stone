@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home4/shrutidu/myhoneystone.ca/
+    - export DEPLOYPATH=/home/bramp135/myhoneystone.ca/
     - /bin/cp -r * $DEPLOYPATH
