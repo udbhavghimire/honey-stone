@@ -4,6 +4,7 @@
 } */
 
 @import url(https://db.onlinewebfonts.com/c/4548f05b8bd3f3907db4b5abfd2b70a3?family=MillerDisplay-Light);
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -410,12 +411,14 @@ font-family: "Helvetica Neue" !important;
         font-size: 2rem !important;
         margin-right: 0rem !important;
     }
+
     .headline-textt {
         font-size: 1.1rem !important;
         font-weight: 500 !important;
         line-height: 2rem;
         text-align: justify;
     }
+
     #hero .hero-container {
         position: relative;
         display: flex;
@@ -423,16 +426,19 @@ font-family: "Helvetica Neue" !important;
         justify-content: center;
         flex-direction: column;
     }
+
     #hero h1 {
         font-size: 44px;
         line-height: 46px;
     }
+
     .textt {
         font-size: 18px;
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
     }
+
     .center-sm {
         text-align: center;
     }

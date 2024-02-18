@@ -227,6 +227,22 @@
         </div>
     </section>
 
+    <section data-aos="fade-up" >
+        <div class="container pt-md-5 pt-5" id="location">
+            <div class="pt-md-5 "></div>
+            <div class="pt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center" data-aos="fade-up">
+                    <span class="mx-1 mb-0">Honeystone at Heritage Heights</span> </span>
+                </h2>
+               <span class="text-center d-flex justify-content-center mx-widthh pb-4 px-2">A vibrant new community in West Brampton. Watch the video below to know more about Honeystone</span>
+                </div>
+
+                <div class ="d-flex justify-content-center align-items-center">
+                <iframe width="960" height="515" src="https://www.youtube.com/embed/MLya-2XhQb0?si=GiYRna298dTxOobk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
+        </div>
+    </section>
+
     <section>
         <div class="container pt-md-5 pt-5" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">
         <div class="pt-md-5 pt-4"></div>
